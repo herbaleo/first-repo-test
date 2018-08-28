@@ -1,4 +1,4 @@
 # first-repo-test
-*EEEEEEE*
+*Leo Lundberg*
 
 Mitt första Sourcetree test
