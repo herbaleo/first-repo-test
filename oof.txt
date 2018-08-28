@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 ooooooooooooooooooooooooooooooooooooooffffffffffffffffffffff
 borg
 gillar du raketer?
+=======
+ooooooooooooooooooooooooooooooooooooooffffffffffffffffffffff HOI
+>>>>>>> 0898e163145bf94a1ba80b4290d7c4e35873aa6b
